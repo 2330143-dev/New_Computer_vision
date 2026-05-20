@@ -1,1 +1,3 @@
-Hola mundo 
+Una forma de establecer una prueva de continuidad es 
+estableciendo los parametros claves que deberan de 
+registrarse, por lo cual 
